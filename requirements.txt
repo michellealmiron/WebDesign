@@ -3,3 +3,4 @@ pandas
 seaborn
 geopandas
 plotly.express
+streamlit_option_menu
